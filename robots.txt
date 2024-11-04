@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://odiduoqo.github.io/JtM/sitemap_index.txt
+Sitemap: https://odiduoqo.github.io/Rlp/sitemap_index.txt
+Sitemap: https://odiduoqo.github.io/Srj/sitemap_index.txt
+Sitemap: https://odiduoqo.github.io/Yih/sitemap_index.txt
